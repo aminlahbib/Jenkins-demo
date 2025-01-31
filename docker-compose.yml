@@ -1,5 +1,22 @@
 
 services:
+  my-jenkins:
+    image: my-jenkins
+    container_name: my-jenkins
+    restart: on-failure
+    environment:
+      - DOCKER_HOST=tcp://docker:2376
+      - DOCKER_CERT_PATH=/certs/client
+      - DOCKER_TLS_VERIFY=1
+    volumes:
+      - jenkins-data:/var/jenkins_home
+      - jenkins-docker-certs:/certs/client:ro
+      - /var/run/docker.sock:/var/run/docker.sock  # Mount Docker socket
+    ports:
+      - "9090:8080"
+      - "50000:50000"
+    networks:
+      - jenkins
   db:
     build: ./db
     container_name: loan_db
