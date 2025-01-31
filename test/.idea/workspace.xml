@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aef3b818-ab58-476e-87b9-a9cafde9cff0" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="Class" />
+        <option value="Dockerfile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {}
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:aminlahbib/swtp.git&quot;,
+    &quot;accountId&quot;: &quot;10c0ca2e-cdd6-437d-b5e7-48f4fdd8839e&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/frontend/index.html" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2rqeRVXFt0dN3cuUwxtSzczgkJ2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Docker.backend/Dockerfile.executor&quot;: &quot;Run&quot;,
+    &quot;Docker.docker-compose.yml: Compose Deployment.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.equipment-management [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.equipment-management [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.equipment-management [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.equipment-management [package].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.equipment-management [site].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.equipment-management [validate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.equipment-management [verify].executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;Spring Boot.EquipmentApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/amine/Desktop/test/frontend/js&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.47447446&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.LRUPopupBuilder$1/&quot;: [
+      &quot;MySQL&quot;
+    ],
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;AiIgnore&quot;,
+      &quot;PLAIN_TEXT&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/frontend/js" />
+      <recent name="$PROJECT_DIR$/frontend/templates" />
+      <recent name="$PROJECT_DIR$/frontend" />
+      <recent name="$PROJECT_DIR$/frontend/assets" />
+      <recent name="$PROJECT_DIR$/frontend/js/js-ui" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/frontend" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/frontend/js" />
+      <recent name="$PROJECT_DIR$/frontend/static" />
+      <recent name="$PROJECT_DIR$/frontend/js/1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.EquipmentApplication">
+    <configuration name="EquipmentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="equipment-management" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.equipment.EquipmentApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="backend/Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="backend/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
+        <item itemvalue="Docker.backend/Dockerfile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.23654.117" />
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-IU-243.23654.117" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aef3b818-ab58-476e-87b9-a9cafde9cff0" name="Changes" comment="" />
+      <created>1737291024905</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737291024905</updated>
+      <workItem from="1737291026013" duration="215000" />
+      <workItem from="1737291250555" duration="3772000" />
+      <workItem from="1737321649486" duration="8530000" />
+      <workItem from="1737385918754" duration="2857000" />
+      <workItem from="1737389224738" duration="30000" />
+      <workItem from="1737391567922" duration="1070000" />
+      <workItem from="1737398516135" duration="362000" />
+      <workItem from="1737399376724" duration="1221000" />
+      <workItem from="1737494707740" duration="34000" />
+      <workItem from="1737515054436" duration="223000" />
+      <workItem from="1737515440957" duration="745000" />
+      <workItem from="1737516270580" duration="75000" />
+      <workItem from="1737517093319" duration="70000" />
+      <workItem from="1737517378409" duration="160000" />
+      <workItem from="1737561641718" duration="7736000" />
+      <workItem from="1737580658306" duration="3294000" />
+      <workItem from="1737668210639" duration="3352000" />
+      <workItem from="1737675342853" duration="2539000" />
+      <workItem from="1737689017277" duration="734000" />
+      <workItem from="1737695412516" duration="2091000" />
+      <workItem from="1737697623752" duration="139000" />
+      <workItem from="1737697771445" duration="3000" />
+      <workItem from="1737697801173" duration="57000" />
+      <workItem from="1737698816929" duration="989000" />
+      <workItem from="1737700813860" duration="864000" />
+      <workItem from="1737701691029" duration="202000" />
+      <workItem from="1737701952559" duration="131000" />
+      <workItem from="1737702101004" duration="1618000" />
+      <workItem from="1737703747388" duration="241000" />
+      <workItem from="1737707364436" duration="10962000" />
+      <workItem from="1737749324138" duration="2125000" />
+      <workItem from="1737758537103" duration="2835000" />
+      <workItem from="1737761594345" duration="495000" />
+      <workItem from="1737762119222" duration="6383000" />
+      <workItem from="1737768997789" duration="266000" />
+      <workItem from="1737770034768" duration="5042000" />
+      <workItem from="1737776133675" duration="2891000" />
+      <workItem from="1737788033053" duration="2768000" />
+      <workItem from="1737791143661" duration="608000" />
+      <workItem from="1737792251135" duration="651000" />
+      <workItem from="1737828393475" duration="402000" />
+      <workItem from="1737828805508" duration="1059000" />
+      <workItem from="1737836464776" duration="708000" />
+      <workItem from="1737843669195" duration="1024000" />
+      <workItem from="1737934960242" duration="4399000" />
+      <workItem from="1737939658286" duration="416000" />
+      <workItem from="1737948469686" duration="6067000" />
+      <workItem from="1737955778614" duration="5892000" />
+      <workItem from="1737963102991" duration="1204000" />
+      <workItem from="1737965971715" duration="3242000" />
+      <workItem from="1738021498380" duration="2315000" />
+      <workItem from="1738031532396" duration="1076000" />
+      <workItem from="1738055088562" duration="10794000" />
+      <workItem from="1738066067691" duration="15000" />
+      <workItem from="1738066184775" duration="124000" />
+      <workItem from="1738251989430" duration="268000" />
+      <workItem from="1738264818078" duration="4150000" />
+      <workItem from="1738333829775" duration="83000" />
+      <workItem from="1738333934985" duration="56000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
