@@ -1,49 +1,30 @@
 pipeline {
     agent any
     stages {
-        stage ('hello') {
-            steps {
-                echo 'hello world'
-            }
-        }
-        stage ('Build Backend') {
+        stage ('Checkout') {
             steps {
                 script {
-                    dir('backend') {
-                        sh 'ls'
+                    checkout([$class: 'GitSCM', branches: [[name: '*/main']],
+                        userRemoteConfigs: [[url: 'https://github.com/aminlahbib/Jenkins-demo.git']]
+                    ])
+                }
+            }
+        }
+        stage ('Verify Git Directory') {
+            steps {
+                script {
+                    sh 'pwd'
+                    sh 'ls -la'
+                }
+            }
+        }
+        stage ('Build') {
+            steps {
+                script {
+                    dir('Jenkins-demo-app') {  // Adjust to your repo folder name
+                        sh 'git rev-parse --is-inside-work-tree'
                         sh 'mvn clean package -DskipTests'
                     }
-                    dir('.') {
-                        sh 'docker-compose -f docker-compose.yml build backend'
-
-                    }
-                }
-            }
-        }
-        stage ('Build Frontend') {
-            steps {
-                script {
-                    dir('frontend') {
-                        sh 'docker-compose -f ../docker-compose.yml build frontend'
-                    }
-                }
-            }
-        }
-        stage ('Run Tests') {
-            steps {
-                script {
-                    dir('backend') {
-                        sh 'mvn test'
-                    }
-                    echo 'Running frontend tests...'
-                    // Add frontend test commands if applicable
-                }
-            }
-        }
-        stage ('Deploy') {
-            steps {
-                script {
-                    sh 'docker-compose -f docker-compose.yml up -d'
                 }
             }
         }
