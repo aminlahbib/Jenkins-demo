@@ -9,10 +9,14 @@
            stage ('Build Backend') {
                steps {
                    script {
-                       // Build the backend JAR file
-                       sh 'mvn clean package -DskipTests'
-                       // Build the Docker image for the backend
-                       sh 'docker-compose -f docker-compose.yml build backend'
+                       // Change to the backend directory and build the backend JAR file
+                       dir('backend') {
+                           sh 'mvn clean package -DskipTests'
+                       }
+                       // Change back to the main directory to build the Docker image for the backend
+                       dir('.') {
+                           sh 'docker-compose -f docker-compose.yml build backend'
+                       }
                    }
                }
            }
