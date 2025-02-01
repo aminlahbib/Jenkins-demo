@@ -14,7 +14,7 @@ pipeline {
                         sh 'mvn clean package -DskipTests'
                     }
                     dir('.') {
-                        sh 'docker compose -f docker-compose.yml build backend'
+                        sh 'docker-compose -f docker-compose.yml build backend'
 
                     }
                 }
@@ -24,7 +24,7 @@ pipeline {
             steps {
                 script {
                     dir('frontend') {
-                        sh 'docker compose -f ../docker-compose.yml build frontend'
+                        sh 'docker-compose -f ../docker-compose.yml build frontend'
                     }
                 }
             }
