@@ -11,7 +11,10 @@
                    script {
                        // Change to the backend directory and build the backend JAR file
                        dir('backend') {
-                           sh 'mvn clean package -DskipTests'
+                           sh '''
+                           ls
+                           mvn clean package -DskipTests
+                           '''
                        }
                        // Change back to the main directory to build the Docker image for the backend
                        dir('.') {
