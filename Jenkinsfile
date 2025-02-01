@@ -13,7 +13,7 @@ pipeline {
                         sh 'ls'
                         sh 'mvn clean package -DskipTests'
                     }
-                    dir('.') {
+                    dir('..') {
                         sh 'docker-compose -f docker-compose.yml build backend'
                     }
                 }
